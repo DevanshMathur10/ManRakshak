@@ -1,0 +1,29 @@
+body{
+    background-image: url(images/2789327.jpg) ;
+    background-size: cover;
+}
+
+.divtext{
+    /* border:solid 1px black; */
+    width:480px;
+    height : 600px;
+    margin-top:100px;
+    margin-left:550px;
+    font-weight: bold;
+    font-size: large;
+    /* color:aliceblue; */
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+.textcontain{
+    /* border:solid 1px yellow; */
+    width:440px;
+    height : 560px;
+    margin-top:10px;
+    margin-left:10px;
+    z-index: 5;
+}
+/* .divtext:hover{
+    -webkit-backdrop-filter: blur(500px);
+    backdrop-filter: blur(500px);
+    opacity: .2;
+} */
